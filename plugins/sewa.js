@@ -27,12 +27,12 @@ Jika anda berminat hubungi nomor di bawah!!
 Terimakasih yang sudah mendonasikan untuk bot
 
 Contact person Sewa Bot:
-wa.me/${6285850539404} (Owner)
+wa.me/${6283160327945} (Owner)
 
 *Follow Instagram ku juga kak😼*`
   conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, 'Pilihan Store', '.pilihanstore', 'Owner', '.owner', 'Menu', '.menu', m) 
 }
-handler.help = ['sewaoscar']
+handler.help = ['sewaasep']
 handler.tags = ['info']
 handler.command = /^(sewa|sewaasep|sewa|sewabot)$/i
 
