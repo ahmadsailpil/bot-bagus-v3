@@ -46,8 +46,8 @@ let jarot = `
 }
 
 handler.tags = ['main', 'info']
-handler.customPrefix = /^(menu|help|.menu|.help)$/i
-handler.help = ['.menu']
+handler.customPrefix = /^(asep)$/i
+handler.help = ['.asep']
 handler.command = new RegExp
 
 module.exports = handler
