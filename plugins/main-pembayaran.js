@@ -13,8 +13,8 @@ let anu = `*-------「 𝐀𝐋𝐋 𝐏𝐀𝐘𝐌𝐄𝐍𝐓  𝐕𝐈𝐀 �
 `
   conn.send2ButtonImg(m.chat, fla + teks, anu,wm, '𝙎𝙐𝙆𝙎𝙀𝙎', '.owner2', 'SosialMedia Creator', '.sosialmedia', m) 
 }
-handler.help = ['owner']
+handler.help = ['payment']
 handler.tags = ['info']
-handler.command = /^(owner|creator)$/i
+handler.command = /^(payment)$/i
 
 module.exports = handler
