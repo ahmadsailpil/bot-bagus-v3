@@ -22,15 +22,8 @@ let jarot = `
            },
                {
              quickReplyButton: {
-               displayText: '𝙎𝙀𝙇𝙇 𝘿𝙄𝘼𝙈𝙊𝙉𝘿 𝙇𝙊𝘾𝙆',
+               displayText: '💎𝙎𝙀𝙇𝙇 𝘿𝙄𝘼𝙈𝙊𝙉𝘿 𝙇𝙊𝘾𝙆💎',
                id: '.pilihanstore',
-             }
-             
-           },
-               {
-             quickReplyButton: {
-               displayText: '𝙇𝙞𝙨𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙📖',
-               id: '.allmenu',
              }
 
            }]
