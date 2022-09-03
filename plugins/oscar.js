@@ -37,20 +37,13 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: '𝙂𝙧𝙤𝙪𝙥 𝘽𝙤𝙩🎮',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-             }
-
-           },
-                {
-               urlButton: {
-               displayText: '𝙈𝙮 𝙒𝙚𝙗🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://chat.whatsapp.com/GMv2BxudUzfJhIAwtv8Tvh'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝙎𝙘𝙧𝙞𝙥𝙩',
+               displayText: 'sewaa',
                id: '.sc',
              }
              
