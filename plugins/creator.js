@@ -3,7 +3,7 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
+FN: ᴹᴿ᭄ 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙ོ_1ঔৣ꧂
 item.ORG: ᴹᴿ᭄ 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙ོ_1ঔৣ꧂
 item1.TEL;waid=6283160327945@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
