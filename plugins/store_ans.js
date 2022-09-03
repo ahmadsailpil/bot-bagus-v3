@@ -21,9 +21,9 @@ let jarot = `
 
            },
                 {
-               urlButton: {
+               quickReplyButton: {
                displayText: 'BUY DIAMOND LOCK',
-               url: '.payment'
+               id: '.payment'
              }
            }]
          }
