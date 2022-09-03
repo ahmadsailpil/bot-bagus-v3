@@ -45,7 +45,6 @@ let jarot = `
      )
 }
 
-handler.tags = ['main', 'info']
 handler.customPrefix = /^(buy dl|sell dl|buy diamond lock|buy dl cheap|buy diamondlock|ohlx|ohlxstore|ohlx store|sell diamond lock|sell dl|sell dl cheap|sell diamond lock|need midman|need mm|buy jasa mm|\?)$/i
 handler.command = new RegExp
 
