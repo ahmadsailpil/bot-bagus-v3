@@ -4,18 +4,18 @@ let chalk = require('chalk')
 global.owner = [
   ['6283160327945'],
   ['6283160327945'],
-  ['6283848128003', 'Owner', true]
+  ['6283160327945', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.fotonya1 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg' //ini kalo mau di ganti silahkan ganti aja
-global.fotonya2 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg' //gw lupa nih foto apa aja:v
-global.fotonya3 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini kalo mau di ganti silahkan ganti aja
+global.fotonya2 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //gw lupa nih foto apa aja:v
+global.fotonya3 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini juga ganti
 global.fotonya4 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg'
+global.fotonya5 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg'
 global.instagram = 'https://instagram.com/ohlx_store'
-global.dana = '083848128003'
+global.dana = '6283160327945'
 global.saweria = 'https://saweria.co/asepbotz'
 global.pulsa = ''
 global.yt = 'https://youtube.com/channel/UCI0e4GqmeLZhy8KE8c9JPsw'
@@ -57,8 +57,8 @@ if (stickerpack.spackname == '') {
   var sticker_name = '@𝘼𝙎𝙀𝙋 𝘽𝙊𝙏𝙕'
   var sticker_author = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
 } else {
-  var sticker_name = stickerpack.spackname
-  var sticker_author = stickerpack.sauthor
+  var sticker_name = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
+  var sticker_author = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
 }
 
 const file_exif = "lib/exif.json"
@@ -70,8 +70,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = sticker_name
-global.author = sticker_author
+global.packname = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
+global.author = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
 global.wm = '©𝘼𝙎𝙀𝙋 𝘽𝙊𝙏𝙕'
 
 global.anu = 'https://telegra.ph/file/989bd78701f27eec3293a.png'
