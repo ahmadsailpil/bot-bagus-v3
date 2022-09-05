@@ -4,7 +4,7 @@ let chalk = require('chalk')
 global.owner = [
   ['6283160327945'],
   ['6283160327945'],
-  ['6283160327945', 'Owner', true]
+  ['6283848128003', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.fotonya1 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini kalo mau di ganti silahkan ganti aja
@@ -15,7 +15,7 @@ global.fotonya5 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini jug
 global.fotonya6 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpgg'
 global.instagram = 'https://instagram.com/ohlx_store'
-global.dana = '6283160327945'
+global.dana = '083848128003'
 global.saweria = 'https://saweria.co/asepbotz'
 global.pulsa = ''
 global.yt = 'https://youtube.com/channel/UCI0e4GqmeLZhy8KE8c9JPsw'
