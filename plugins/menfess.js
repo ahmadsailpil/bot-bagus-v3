@@ -5,11 +5,11 @@ let handler = async(m, { conn, text }) => {
 let [number, pesan] = text.split `|`
 
     if (!number) return conn.reply(m.chat, 'Penggunaan .chat nomor|pesan untuknya\nContoh : .chat 628xxxxxxxxxx|hai owner', m, {quoted: m, thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),
-        contextInfo: { forwardingScore: 999, isForwarded: true, externalAdReply: {title: 'Gunakan Dengan Bijak Yah Kak', sourceUrl: 'http://wa.me/6282181825945?text=.chat 6285158866902|Hi Jarot Hehehe 🌹', body: 'Oscarbot By Jarot', thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),}}})
+        contextInfo: { forwardingScore: 999, isForwarded: true, externalAdReply: {title: 'Gunakan Dengan Bijak Yah Kak', sourceUrl: 'http://wa.me/6282181825945?text=.chat 6283160327945|Hi 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙 Hehehe 🌹', body: '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕 By 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),}}})
     if (!pesan) return conn.reply(m.chat, 'Silahkan masukan pesannya', m, {quoted: m, thumbnail: await (await fetch('https://telegra.ph/file/b9a32ee41970d7a71b476.jpg')).buffer(),
-        contextInfo: { forwardingScore: 999, isForwarded: true, externalAdReply: {title: 'Gunakan Dengan Bijak Yah Kak', sourceUrl: 'http://wa.me/6282181825945?text=.chat 6285158866902|Hi  𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙 Hehehe 🌹', body: '𝘼𝙨𝙚𝙥 𝙗𝙤𝙩𝙯 By 𝙍𝙞𝙙𝙝𝙤', thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),}}})
+        contextInfo: { forwardingScore: 999, isForwarded: true, externalAdReply: {title: 'Gunakan Dengan Bijak Yah Kak', sourceUrl: 'http://wa.me/6282181825945?text=.chat 6283160327945|Hi  𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙 Hehehe 🌹', body: '𝘼𝙨𝙚𝙥 𝙗𝙤𝙩𝙯 By 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),}}})
     if (text > 700) return conn.reply(m.chat, 'Teks Kepanjangan!', m, {quoted: m, thumbnail: await (await fetch('https://telegra.ph/file/b9a32ee41970d7a71b476.jpg')).buffer(),
-        contextInfo: { forwardingScore: 999, isForwarded: true, externalAdReply: {title: 'Gunakan Dengan Bijak Yah Kak', sourceUrl: 'http://wa.me/6282181825945?text=.chat 6283160327945|Hi 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙 Hehehe 🌹', body: 'Oscarbot By Jarot', thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),}}})
+        contextInfo: { forwardingScore: 999, isForwarded: true, externalAdReply: {title: 'Gunakan Dengan Bijak Yah Kak', sourceUrl: 'http://wa.me/6282181825945?text=.chat 6283160327945|Hi 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙 Hehehe 🌹', body: '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕 By 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', thumbnail: await (await fetch('https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg')).buffer(),}}})
 
     let chat = `${number}`
     var nomor = m.sender
@@ -54,9 +54,9 @@ Isi Pesan : ${pesan}
 handler.help = ['menfess <nomor|pesan>']
 handler.tags = ['main']
 handler.command = /^(menfess)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
