@@ -5,7 +5,7 @@ VERSION:3.0
 N:;;;
 FN: ᴹᴿ᭄ 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙ོ_1ঔৣ꧂
 item.ORG: ᴹᴿ᭄ 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙ོ_1ঔৣ꧂
-item1.TEL;waid=6283160327945@s.whatsapp.net
+item1.TEL;waid=6283160327945:6283848128003@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
 item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCI0e4GqmeLZhy8KE8c9JPsw
 item2.X-ABLabel:YOUTUBE
