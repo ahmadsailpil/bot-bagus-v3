@@ -69,7 +69,7 @@ const defaultMenu = {
   body: '┃➺ %cmd %islimit %isPremium',
   footer: '┃\n╚══════════❖\n', 
   after: `*Made by ♡*
-*%npmname* | %version
+*𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙* | %version
 ${'```%npmdesc```'}
 `,
 }
