@@ -17,15 +17,15 @@ let jarot = `
            hydratedFooterText: '',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'instagram📨',
-               url: webm
+               displayText: 'Saweria📨',
+               url: 'https://saweria.co/asepbotz'
              }
 
            },
                {
 urlButton: {
                displayText: 'Group Bot Creator📸',
-               url: gc
+               url: 'https://chat.whatsapp.com/GMv2BxudUzfJhIAwtv8Tvh'
              }
 
            },
